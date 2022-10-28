@@ -1,7 +1,5 @@
-title: My Resume
-
-author: Junyi Lu
-
-email: q906107506@gmail.com
-
-theme: jekyll-theme-midnight
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
