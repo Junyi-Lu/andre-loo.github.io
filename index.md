@@ -10,7 +10,6 @@
 <div style="font-size:16px"><span style="float:right">September 2019 - Present</span><strong>Bachelor of Sciences</strong></div>  
 University of Manitoba<br>
 Major: Computer Science  
-
 Expected date of completion: August 2023<br>
 Relevant Coursework: Data Structures & Algorithms, Agile Software Development, Data Mining & Database Implementation
 
@@ -26,8 +25,7 @@ Relevant Coursework: Data Structures & Algorithms, Agile Software Development, D
 ### **<u>COMPUTER SKILLS</u>**
 ***
 <div style="font-size:16px"><span style="float:right"> Java, C, Python,  R, HTML, CSS, JavaScript</span>Languages</div>  
-<div style="font-size:16px"><span style="float:right"> Excel, Word, PowerPoint, GitHub Desktop, DB Browser, Neo4j </span>Software</div>
-
+<div style="font-size:16px"><span style="float:right"> Excel, Word, PowerPoint, GitHub Desktop, DB Browser, Neo4j </span>Software</div>  
 
 ### **<u>AWARDS</u>**
 ***
