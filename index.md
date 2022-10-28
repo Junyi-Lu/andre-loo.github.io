@@ -28,6 +28,7 @@ Relevant Coursework: Data Structures & Algorithms, Agile Software Development, D
 <div style="font-size:16px"><span style="float:right"> Java, C, Python,  R, HTML, CSS, JavaScript</span>Languages</div>  
 <div style="font-size:16px"><span style="float:right"> Excel, Word, PowerPoint, GitHub Desktop, DB Browser, Neo4j </span>Software</div>
 
+
 ### **<u>AWARDS</u>**
 ***
 <div style="font-size:16px"><span style="float:right">2022</span>Undergraduate Research Award</div>
