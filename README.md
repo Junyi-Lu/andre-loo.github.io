@@ -8,7 +8,7 @@ In this process, Etter's Modern Technical Writing principles are constantly appl
    * [Prerequisites](#Prerequisites)
       * [Installing The Markdown Editors](#Installing-The-Markdown-Editors)
       * [Markdown Tutorial](#Markdown-Tutorial)
-      * [A Resume Formatted in Markdown](#A-Resume-Formatted-in-Markdown)
+      * [The Resume Formatted in Markdown](#The-Resume-Formatted-in-Markdown)
       * [The Account for GitHub](#The-Account-for-GitHub)
 * [Instructions](#Instructions)
    * [Resetting Your Own Resume in Markdown](#Resetting-Your-Own-Resume-in-Markdown)
