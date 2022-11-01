@@ -49,7 +49,7 @@ In this process, Etter's Modern Technical Writing principles are constantly appl
 1. Change your resume Markdown file name to ```index.md```
 
 ### Creating the Repository
-The storage and updating of documentation and code is always a core issue for developers. Some people praise the centralized system for its ability to be managed in a unified manner. In fact, most people prefer the distributed version control system(DVCS), which offers better performance and allows users to work offline. Developers are also able to handle the concurrency of the same file better. GitHub is one of the representatives of DVCS that is loved by the majority of people. In the present day, many developers treat the creation of a new repository as the starting point for their development. A repository represents a complete project, so they can control multiple branches to continuously update the development progress.
+The storage and updating of documentation and code is always a core issue for developers. Andrew Etter prefers the distributed version control system(DVCS), which offers better performance and allows users to work offline. Developers are also able to handle the concurrency of the same file better. GitHub is one of the representatives of DVCS that is loved by the majority of people. In the present day, many developers treat the creation of a new repository as the starting point for their development. A repository represents a complete project, so they can control multiple branches to continuously update the development progress.
 
 1. Log into your [GitHub](https://github.com/) account.
 2. Click the **'+'** symbol at the top right corner of website.
