@@ -90,7 +90,7 @@ Andrew Etter encourages saving information through websites instead of PDFs. PDF
 4. Click the **"Commit changes"** at the bottom of page.
 5. Click the **"github-pages"** at the bottom right of the main page of the repository
 6. Click the **"View deployment"** to visit the GitHub page.
-7. Record the address of GitHub page (e.g, https://andre-loo.github.io/Junyi-resume/)
+7. Record the address of GitHub page (e.g, https://andre-loo.github.io/)
 
 ![A GIF showing my own github page resume](https://media.giphy.com/media/dmC3I5XDB8NGwrBPYD/giphy.gif)
 
