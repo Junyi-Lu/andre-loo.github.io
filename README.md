@@ -6,7 +6,7 @@ In this process, Etter's Modern Technical Writing principles are constantly appl
 ## **List of Contents** 
 * [Getting Started](#Getting-Started)
    * [Prerequisites](#Prerequisites)
-      * [Installing a Markdown Editor](#Installing-the-Markdown-Editors)
+      * [Installing The Markdown Editors](#Installing-The-Markdown-Editors)
       * [Markdown Tutorial](#Markdown-Tutorial)
       * [A Resume Formatted in Markdown](#A-Resume-Formatted-in-Markdown)
       * [The Account for GitHub](#The-Account-for-GitHub)
@@ -27,7 +27,7 @@ In this process, Etter's Modern Technical Writing principles are constantly appl
 
 ### Prerequisites
 
-#### Installing a Markdown Editor
+#### Installing The Markdown Editors
 - [Markdown Editors by OS](#More-Resources)
 - [Online Markdown Editors](#More-Resources)
 #### Markdown Tutorial
