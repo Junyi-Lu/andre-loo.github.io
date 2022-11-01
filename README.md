@@ -27,6 +27,8 @@ In this process, Etter's Modern Technical Writing principles are constantly appl
 
 ### Prerequisites
 
+**Markdown is a markup language which translates into HTML.**
+
 #### Installing The Markdown Editors
 - [Markdown Editors by OS](#More-Resources)
 - [Online Markdown Editors](#More-Resources)
@@ -54,7 +56,7 @@ The storage and updating of documentation and code is always a core issue for de
 1. Log into your [GitHub](https://github.com/) account.
 2. Click the **'+'** symbol at the top right corner of website.
 3. Select the **'New repository'**.
-4. Enter ```username.github.io``` as the repository name. (e.g, andre-loo.github.io)
+4. Enter ```YourUserName.github.io``` as the repository name. (e.g, andre-loo.github.io)
 5. Check the box **"Add a README file"**.
 6. Click the **"Create repository"** to finish.
 
