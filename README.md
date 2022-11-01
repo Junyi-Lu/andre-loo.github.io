@@ -129,5 +129,5 @@ Andrew Etter encourages saving information through websites instead of PDFs. PDF
 
 #### Why is my resume not showing up?
 - Double check the resume file name, since it has to same as ```index.md```
-- Make sure ```index.md``` is not empty file
+- Making sure ```index.md``` is not empty file
 
