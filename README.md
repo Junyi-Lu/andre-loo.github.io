@@ -35,7 +35,7 @@ In this process, Etter's Modern Technical Writing principles are constantly appl
 - [Basic Syntax](#More-Resources)
 
 #### The Resume Formatted in Markdown
-- [The Example](https://andre-loo.github.io/Junyi-resume/)
+- [The Example](https://andre-loo.github.io/)
 
 #### The Account for GitHub
 - [Sign Up](https://github.com/join)
@@ -54,7 +54,7 @@ The storage and updating of documentation and code is always a core issue for de
 1. Log into your [GitHub](https://github.com/) account.
 2. Click the **'+'** symbol at the top right corner of website.
 3. Select the **'New repository'**.
-4. Enter a repository name (e.g, "surname-resume").
+4. Enter ```username.github.io``` as the repository name. (e.g, andre-loo.github.io)
 5. Check the box **"Add a README file"**.
 6. Click the **"Create repository"** to finish.
 
@@ -129,5 +129,4 @@ Andrew Etter encourages saving information through websites instead of PDFs. PDF
 
 #### Why is my resume not showing up?
 - Double check the resume file name, since it has to same as ```index.md```
-- Making sure ```index.md``` is not empty file
-
+- Make sure ```index.md``` is not empty file
